@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Enōtikon or A sermon of the vnion of Great Brittannie, in antiquitie of language, name, religion, an
+
 #####Body#####
-Enōtikon or A sermon of the vnion of Great Brittannie, in antiquitie of language, name, religion, an
+
+1. ΕΝΩΤΙΚΟΝ
+
+OR
+A Sermon of the Vnion of
+Great Britannie.
+
 **Types of content**
 
   * There are 2 **verse** lines!
